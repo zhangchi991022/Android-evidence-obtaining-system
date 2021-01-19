@@ -22,23 +22,24 @@ Android 9
 ### 1、设备信息的获取：
 
 安卓手机定位信息的获取:
-
+![image](https://github.com/zhangchi991022/Android-evidence-obtaining-system/tree/main/image/1.PNG)
+![image](https://github.com/zhangchi991022/Android-evidence-obtaining-system/tree/main/image/2.PNG)
 
 
 WiFI Mac的获取：
-
+![image](https://github.com/zhangchi991022/Android-evidence-obtaining-system/tree/main/image/3.PNG)
 
 
 ### 2、通话记录的获取：
-
+![image](https://github.com/zhangchi991022/Android-evidence-obtaining-system/tree/main/image/4.PNG)
 
 
 ### 3、短信记录的获取：
 
-
+![image](https://github.com/zhangchi991022/Android-evidence-obtaining-system/tree/main/image/5.PNG)
 
 ### 4、数据加密上传至服务器（DES加密）：
-
+![image](https://github.com/zhangchi991022/Android-evidence-obtaining-system/tree/main/image/6.PNG)
 
 
 ### 5、客户端、服务器通信（传文件）：
