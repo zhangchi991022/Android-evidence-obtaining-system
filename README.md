@@ -27,7 +27,7 @@ Android 9
 
 
 WiFI Mac的获取：
-![image](https://github.com/zhangchi991022/Android-evidence-obtaining-system/tree/main/image/3.PNG)
+![image](https://github.com/zhangchi991022/Android-evidence-obtaining-system/tree/main/image/3.png)
 
 
 ### 2、通话记录的获取：
@@ -39,7 +39,7 @@ WiFI Mac的获取：
 ![image](https://github.com/zhangchi991022/Android-evidence-obtaining-system/tree/main/image/5.PNG)
 
 ### 4、数据加密上传至服务器（DES加密）：
-![image](https://github.com/zhangchi991022/Android-evidence-obtaining-system/tree/main/image/6.PNG)
+![image](https://github.com/zhangchi991022/Android-evidence-obtaining-system/tree/main/image/6.png)
 
 
 ### 5、客户端、服务器通信（传文件）：
