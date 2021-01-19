@@ -45,6 +45,7 @@ WiFI Mac的获取：
 ### 5、客户端、服务器通信（传文件）：
 
 Client.java和Server.java使用socket进行数据通信
-
-
+### 6、运行结果：
+https://github.com/zhangchi991022/Android-evidence-obtaining-system/blob/main/7.png
+https://github.com/zhangchi991022/Android-evidence-obtaining-system/blob/main/8.png
 
